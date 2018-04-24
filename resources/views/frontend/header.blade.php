@@ -18,8 +18,8 @@
     </div>
     <div id="navigation">
         <div class="container">
-            <div class="logo"><a href="{{ url('/') }}" title="logo TVBuy"><img src="/frontend/front/images/logo-tvbuy.svg"
-                                                                           alt="logo TVBuy"></a></div>
+            <div class="logo"><a href="{{ url('/') }}" title="logo TVBuy"><img src="/assets/images/logo.png"
+                                                                           alt="logo Khỏe Để Yêu Thương"></a></div>
             <ul class="menu">
                 <li class="item"><a href="{{ url('/') }}" title="TRANG CHỦ">TRANG CHỦ</a></li>
                 <li class="item"><a href="{{ url('gioi-thieu') }}" title="GIỚI THIỆU">GIỚI THIỆU</a></li>
