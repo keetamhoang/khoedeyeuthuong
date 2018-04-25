@@ -9,7 +9,7 @@
           content="">
     <meta name="description"
           content="">
-    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon/favicon.jpg"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
     <meta property="fb:app_id" content=""/>
     <meta property="fb:admins" content=""/>
     <meta name="csrf-token" content="{{ csrf_token() }}">
