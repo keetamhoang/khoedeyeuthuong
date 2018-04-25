@@ -26,8 +26,8 @@
             <div class="footer-bottom">
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 col-md-5">
-                        <div class="logo-footer"><a href="index.html" title="Logo TVBuy"><img height="53px"
-                                                                                              src="/frontend/front//images/logo-tvbuy.svg"
+                        <div class="logo-footer"><a href="{{ url('/') }}" title="Logo Khỏe Để Yêu Thương"><img height="53px"
+                                                                                              src="/assets/images/logo.png"
                                                                                               alt="logo TVBuy"></a>
                         </div>
                         <div class="name_address">
