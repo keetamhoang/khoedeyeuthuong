@@ -16,6 +16,8 @@ Route::get('don-hang-cua-ban', 'Frontend\OrderController@index');
 Route::get('san-pham-cua-ban', 'Frontend\ProductController@index');
 Route::get('xu-cua-toi', 'Frontend\CashController@myXu');
 
+Route::get('ladi/thank-you', 'Frontend\HomeController@thankYou');
+
 /*
  * End Frontend
  */

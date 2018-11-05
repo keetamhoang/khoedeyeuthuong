@@ -15,4 +15,9 @@ class HomeController extends Controller
         return view('frontend.home.index');
     }
 
+    public function thankYou(Request $request) {
+        $from = $request->input('from');
+
+        return view('frontend.home.thank_you', compact('from'));
+    }
 }
